@@ -1,1 +1,2 @@
-# IMDB-Review-Modeling-and-Analysis
+# Rotten Tomato-Review-Modeling-and-Analysis
+This project employs Selenium for web scraping to collect reviews from Rotten Tomatoes, focusing on distinguishing between user and critic perspectives. We clean and preprocess the data, then apply Logistic Regression and Naive Bayes models to analyze it. The project aims to uncover insights into review dynamics and preferences, with ROC curves used for model evaluation. This initiative provides valuable insights into review patterns, helping to bridge the gap between audience reception and critical acclaim.
